@@ -4,6 +4,10 @@
 #  poc: ""
 #  region: ""
 
+- organization: "addy.io"
+  url: "addy.io"
+  poc: "Will Browning <contact@help.addy.io>"
+  region: "GB"
 - organization: "AdGuard"
   url: "adguard.com"
   poc: "Daria Magdik <daria@adguard.com>"
